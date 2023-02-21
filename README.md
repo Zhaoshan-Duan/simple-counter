@@ -10,8 +10,8 @@ A simple **Counter** app, similar to popular idle tap mobile games. Idle tap gam
 ## User Stories
 
 The following **required** functionality is completed:
-- [x] User can see a number displayed on the screen. The number starts at 0.
-- [x] User can tap on a button to see the number displayed increase by 1.
+- [:heavy_check_mark:] User can see a number displayed on the screen. The number starts at 0.
+- [:heavy_check_mark:] User can tap on a button to see the number displayed increase by 1.
 
 
 The following **optional** features are implemented:
