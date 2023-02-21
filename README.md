@@ -18,13 +18,13 @@ The following **optional** features are implemented:
 
 The stretch features will help develop this app into something closer to an idle tap game.
 
-- [] User can exchange number of taps accumulated for upgrades:
+- [:heavy_check_mark:] User can exchange number of taps accumulated for upgrades:
   - Ideas for possible upgrades:
-    - [] User can exchange 100 taps for an upgrade where each tap will count as 2 taps
+    - [:heavy_check_mark:] User can exchange 100 taps for an upgrade where each tap will count as 2 taps
     - [] User can exchange 100 taps for an icon button instead of the standard one.
-- [] Customize the app with a theme. For example, you can have a dog background and a paw print button to give your app a dog theme.
+- [:heavy_check_mark:] Customize the app with a theme. For example, you can have a dog background and a paw print button to give your app a dog theme.
 - [] (Extra challenge) User has increasingly difficult goals to reach in terms of number of taps accumulated. Each goal is displayed on the screen until the next goal is reached, and user can see how many goals they've reached in total.
-The following **additional** features are implemented:
+
 
 ## Video Walkthrough
 
