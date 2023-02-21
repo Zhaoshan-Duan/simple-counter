@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         val upgradeBtn = binding.upgradeBtn
         val textView = binding.textView
 
-        count = 98
+        count = 90
         button.setOnClickListener {
             count++
             textView.text = count.toString()
